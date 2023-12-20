@@ -1,7 +1,7 @@
 # Hello! I'm Caique R.
 
 
-- 🌱 Estudamdo Git/Github
+- 🌱 Estudando Git/Github
 
 <picture>
   <source
