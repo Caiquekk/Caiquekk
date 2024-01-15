@@ -1,7 +1,7 @@
 # Hello! I'm Caique R.
 
 
-- 🌱 Estudando Git/Github
+- 🌱 Estudando Java Script
 
 <picture>
   <source
